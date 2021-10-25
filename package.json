@@ -1,0 +1,20 @@
+{
+  "name": "document_proof_klaytn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_test.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "caver-js": "^1.6.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
